@@ -1,1 +1,1 @@
-![pixel-art-tree](https://github.com/user-attachments/assets/7b592645-6d9b-4b4f-9d7c-020fdfcb62bf) 
+Hello! I'm a currently a Computer Science Undergraduate. I live in Hyderabad, India. I like exploring new tech and contributing to open-source. I have contributed to a couple of essential open-source projects that you can see in the contribution summary. I like doing math in my spare time. 
