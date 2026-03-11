@@ -1,1 +1,2 @@
-Hello! I'm a currently a Computer Science Undergraduate. I live in Hyderabad, India. I like exploring new tech and contributing to open-source. I have contributed to a couple of essential open-source projects that you can see in the contribution summary. I like doing math in my spare time. 
+Hello! I'm a currently a Computer Science Undergraduate. I live in Hyderabad, India. I like exploring old tech and contributing to open-source. I have contributed to a couple of essential open-source projects that you can see in the contribution summary. I like doing math in my spare time. 
+
